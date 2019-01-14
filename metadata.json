@@ -1,0 +1,21 @@
+{
+    "description": "example for nimare sprint",
+    "exclusion_criteria": [
+        "did not report coordinates"
+    ],
+    "inclusion_criteria": [
+        "healthy subjects",
+        "adults",
+        "fmri studies"
+    ],
+    "search_to_pmids": {},
+    "tags": [
+        "Pain",
+        "Pain Habituation",
+        "Pain Sensitization",
+        "Capsaicin-evoked pain",
+        "Phasic pain stimulation",
+        "Pain monitor/discrimination task"
+    ],
+    "unmapped_pmids": []
+}
